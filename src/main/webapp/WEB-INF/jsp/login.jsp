@@ -33,7 +33,7 @@
                     <input type="password" class="form-control" id="password" placeholder="Clave secreta (admin)">
                     <label for="password">Contraseña (admin)</label>
                 </div>
-                <button type="submit" value="Aceptar" class="btn btn-primary btn-lg w-100 mt-2">Login</button>
+                <button type="submit" class="btn btn-primary btn-lg w-100 mt-2">Login</button>
             </form>
 
         </div>
